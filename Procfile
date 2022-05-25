@@ -1,0 +1,1 @@
+web: gunicorn wsci:app
